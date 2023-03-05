@@ -1,0 +1,29 @@
+  {
+    "fortunes": [
+      {
+        "id": 1,
+        "name": "Fortune2",
+        "fortuneResult1": "You will live a happy life by doing nothing", 
+        "fortuneResult2": "yellow"
+        },
+      {
+        "id": 2,
+        "name": "Fortune2",
+        "fortuneResult1": "You will live a sad life by doing nothing", 
+        "fortuneResult2": " red"
+        },
+        {
+          "id": 3,
+          "name": "Fortune3",
+          "fortuneResult1": "You will live a stink life by doing nothing", 
+          "fortuneResult2": "blue"
+          },
+        {
+          "id": 4,
+          "name": "Fortune4",
+          "fortuneResult1": "You will live a rich life by doing nothing", 
+          "fortuneResult2": " pink"
+          }
+    ]
+  }
+

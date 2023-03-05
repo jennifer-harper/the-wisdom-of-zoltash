@@ -1,0 +1,77 @@
+/* dark: #161d2b */
+/* light: #fff1db */
+/* orange:#f28c36
+blue #292de3 */
+
+body {
+    background-color: #161d2b;
+    font-family: 'Raleway', serif;
+    color:#fff1db
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .wrapper{
+    display: flex;
+    flex-direction: column;
+  }
+  
+  h1{
+    font-weight: 500;
+    font-family: 'Rye', cursive;
+    text-align: center;
+  }
+  
+
+  /* home page */
+  .container.home{
+    background-image: url(./images/bg-stars.svg);
+  }
+  .imageWrapper{
+    width: 100%;
+    max-width: 400px;
+  }
+
+  .form-graphic{
+    max-width: 200px;
+  }
+  form{
+    display: flex;
+    flex-direction: column;
+  }
+
+  a button{
+    padding: 20px;
+    min-width: 160px;
+    font-weight: bold;
+    background-color: #292de3 ;
+    color: white;
+
+  }
+  a:hover button{
+    background-color:#f28c36;
+
+  }
+
+  form label{
+    margin-bottom: 20px;
+  }
+  form input{
+    height: 30px;
+    padding: 0 30px;
+    /* background-color: #f28c36; */
+  }
+
+  form .button{
+    background-color: #292de3;
+    color:white;
+    margin-top:20px
+
+  }
