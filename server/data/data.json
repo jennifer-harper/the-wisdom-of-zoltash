@@ -1,4 +1,16 @@
 {
+
+  "genres":[
+    {
+      "theme":"love",
+      "title":"Love"
+    },
+    {
+      "theme":"money",
+      "title":"Money"
+    }
+
+  ],
   "fortunes": [
     {
       "id": 1,
@@ -13,27 +25,7 @@
       "fortuneResult1": "xx",
       "fortuneResult2": "xx",
       "sentence": "indicate that you should focus on balance and harmony in your life. Look for ways to bring more peace and tranquility into your daily routine."
-    },
-    {
-      "id": 3,
-      "name": "Fortune3",
-      "fortuneResult1": "xx",
-      "fortuneResult2": "xx",
-      "sentence": "are a sign that you should trust your intuition and listen to your inner voice. Your instincts will guide you in making the right decisions. Remember to stay grounded and focused. You may face challenges in the coming days, but with determination and perseverance, you can overcome them."
-    },
-    {
-      "id": 4,
-      "name": "Fortune4",
-      "fortuneResult1": "xx",
-      "fortuneResult2": "xx",
-      "sentence": "suggest that you should be open to new experiences and opportunities. Embrace change and explore new horizons, and you will find success and fulfillment."
-    },
-    {
-      "id": 5,
-      "name": "Fortune5",
-      "fortuneResult1": "xx",
-      "fortuneResult2": "xx",
-      "sentence": "are a reminder to stay grounded and focused. You may face challenges in the coming days, but with determination and perseverance, you can overcome them."
     }
+
   ]
 }
